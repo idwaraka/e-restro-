@@ -1,22 +1,22 @@
 {"allocation":[
     {
        "investment_type": "EQUITY",
-        "investment_percentage_Equity": 0.1
+        "investment_percentage": "0.1"
     },
    {
         "investment_type": "GOLD",
-        investment_percentage_Gold: 0.1
+        "investment_percentage": 0.2
     },
     {
         "investment_type": "INTERNATIONAL",
-        investment_percentage_International:0.05
+        "investment_percentage": 0.3
     },
    {
         "investment_type": "REIT",
-        investment_percentage_Reit: 0.0
+        "investment_percentage": 0.2
     },
    {
        "investment_type": "DEBT",
-        investment_percentage_Debt: 0.75
+        "investment_percentage": 0.2
     }
 ]}
