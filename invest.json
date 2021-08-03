@@ -1,11 +1,22 @@
-{
-  "title": "The Basics - Networking",
-  "description": "Your app fetched this from a remote endpoint!",
-  "movies": [
-    { "id": "1", "title": "Star Wars", "releaseYear": "1977" },
-    { "id": "2", "title": "Back to the Future", "releaseYear": "1985" },
-    { "id": "3", "title": "The Matrix", "releaseYear": "1999" },
-    { "id": "4", "title": "Inception", "releaseYear": "2010" },
-    { "id": "5", "title": "Interstellar", "releaseYear": "2014" }
-  ]
-}
+{"allocation":[
+    {
+       "investment_type": "EQUITY",
+        "investment_percentage_Equity": 0.1
+    },
+   {
+        "investment_type": "GOLD",
+        investment_percentage_Gold: 0.1
+    },
+    {
+        "investment_type": "INTERNATIONAL",
+        investment_percentage_International:0.05
+    },
+   {
+        "investment_type": "REIT",
+        investment_percentage_Reit: 0.0
+    },
+   {
+       "investment_type": "DEBT",
+        investment_percentage_Debt: 0.75
+    }
+]}
